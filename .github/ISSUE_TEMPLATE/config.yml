@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Privacy policy
+    url: https://github.com/cybesis/manifast/blob/main/PRIVACY_POLICY.md
+    about: Where your credentials live and what is sent to Microsoft.
+  - name: ✉️ Email support
+    url: mailto:studio@cybesis.com
+    about: For purchase, licensing, or anything you shouldn't post publicly.
+  - name: 🛒 Microsoft Store
+    url: https://apps.microsoft.com/detail/9N0W32S5WBL1
+    about: Install Manifast or leave a review.
